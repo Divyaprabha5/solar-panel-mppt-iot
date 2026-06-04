@@ -27,3 +27,13 @@ to maximize solar panel efficiency with real-time IoT monitoring.
 
 ## 👩‍💻 Author
 Divya Prabha S - [LinkedIn](https://linkedin.com/in/divyaprabha025)
+## 📸 Project Output
+
+### Live Dashboard
+![Dashboard](Screenshot%20(2).png)
+
+### IoT Charts
+![Charts](Screenshot%20(3).png)
+
+### Hardware Setup
+![Hardware](WhatsApp%20Image%202026-06-04%20at%207.56.17%20PM.jpg)
